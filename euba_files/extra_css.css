@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.sapUiBody{
+	font-family: "Open Sans",sans-serif;
+}
+
+.loginForm{
+	background: rgba(255,255,255, 0.4);
+	border-radius: 0.5rem;
+	padding: 1rem;
+}
+
+.sapUiButtonEmphasized{
+	background-color: #4374EF;
+	text-shadow: none;
+}
+
+#LOGIN_CHANGE_PASSWORD_BLOCK {
+  display: block;
+}
+
+#LOGIN_CHANGE_PASSWORD_BLOCK.hide-button {
+  display: none;
+}
